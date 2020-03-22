@@ -2,7 +2,7 @@
 A sudoku solver using backtracking.
 
 ## TODOs
-___
+
 + Rewrite it in javascript.
  * Visualize the backtracking process.
 + Write a sudoku creator that generates sudoku with only **ONE** answer.
