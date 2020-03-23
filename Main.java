@@ -33,9 +33,6 @@ public class Main {
                     System.out.print("|");
                     System.out.printf("%d%s", board[i][a]," ");
                 }else {
-//                if(a % 3 == 0){
-//                    System.out.printf("%d", board[i][a]);
-//                }
                     if (a % 3 == 2) {
                         System.out.printf("%d%s", board[i][a], "|");
                     } else {
